@@ -1,0 +1,7 @@
+
+1. create folder
+2. npm init -y
+3. npm install express --save
+4. create index.js
+5. create .gitignore
+    node_modules
